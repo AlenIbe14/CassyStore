@@ -1,1 +1,1 @@
-# CassyStore
+# CassyStore.com
